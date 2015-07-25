@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 # Defines functions to manipulate calculation, caching and retreival 
 # of a matrix inversion and makes them available to other functions
 
@@ -35,7 +31,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 # Takes an input of a matrix, checks for a cached result, or calculates
 # the result if needed.
 

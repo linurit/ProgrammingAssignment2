@@ -36,8 +36,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-# 
-# 
+# Takes an input of a matrix, checks for a cached result, or calculates
+# the result if needed.
 
 cacheSolve <- function(x, ...) {
 
